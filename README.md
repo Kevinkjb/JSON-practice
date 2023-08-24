@@ -1,2 +1,2 @@
 # sample
-"/image.png"
+# "/image.png"
